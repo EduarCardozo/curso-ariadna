@@ -24,6 +24,7 @@
         "drupal/ctools": "^3.6",
         "drupal/field_group": "^3.1",
         "drupal/token": "^1.9",
+        "drupal/unique_field_ajax": "^2.0",
         "drupal/views_data_export": "^1.0",
         "drupal/xls_serialization": "^1.2"
     },

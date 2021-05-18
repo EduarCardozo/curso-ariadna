@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '98f31362c2bcc78ba8e0997bdb119f82c5f8282b',
+    'reference' => '5c27f23badba741627f8c5a685a667958df071db',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -786,7 +786,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '98f31362c2bcc78ba8e0997bdb119f82c5f8282b',
+      'reference' => '5c27f23badba741627f8c5a685a667958df071db',
     ),
     'drupal/responsive_image' => 
     array (
@@ -922,6 +922,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/unique_field_ajax' => 
+    array (
+      'pretty_version' => '2.0.1',
+      'version' => '2.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2.0.1',
     ),
     'drupal/update' => 
     array (
