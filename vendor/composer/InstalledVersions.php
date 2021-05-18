@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '6fead91aa97a05fcfab249cb572bfb5a23f53317',
+    'reference' => 'cc447851f99dc69b324f8b1799fb1cd0279fab08',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -777,7 +777,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '6fead91aa97a05fcfab249cb572bfb5a23f53317',
+      'reference' => 'cc447851f99dc69b324f8b1799fb1cd0279fab08',
     ),
     'drupal/responsive_image' => 
     array (
@@ -883,6 +883,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/token' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/toolbar' => 
     array (
