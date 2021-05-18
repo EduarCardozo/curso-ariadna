@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '06901267664d133284caa9e886123cee07908be7',
+    'reference' => 'd917280a05dc95d31615197fa9c6777d85148987',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -106,6 +106,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '3.0.0',
+    ),
+    'drupal/administerusersbyrole' => 
+    array (
+      'pretty_version' => '3.0.0',
+      'version' => '3.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-3.0',
     ),
     'drupal/aggregator' => 
     array (
@@ -786,7 +795,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '06901267664d133284caa9e886123cee07908be7',
+      'reference' => 'd917280a05dc95d31615197fa9c6777d85148987',
     ),
     'drupal/responsive_image' => 
     array (
@@ -801,6 +810,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/role_delegation' => 
+    array (
+      'pretty_version' => '1.1.0',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.1',
     ),
     'drupal/search' => 
     array (
