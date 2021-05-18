@@ -23,7 +23,7 @@ body {
   background-image: linear-gradient(to bottom, #055a8e 0%, #1d84c3 100%);
 }
 a,
-.link {
+.link {  
   color: #0071b3;
 }
 a:hover,
