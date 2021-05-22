@@ -1,0 +1,16 @@
+# Schema for the configuration of the BigInt field type.
+
+field.storage_settings.bigint:
+  type: mapping
+  label: 'BigInt settings'
+  mapping:
+    unsigned:
+      type: boolean
+      label: 'Unsigned'
+    size:
+      type: string
+      label: 'Size'
+
+field.field_settings.bigint:
+  type: field.field_settings.integer
+  label: 'BigInt settings'

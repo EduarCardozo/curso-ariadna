@@ -1,0 +1,5 @@
+name: Custom Form
+description: 'Create Custom Form'
+package: custom
+type: module
+core_version_requirement: ^8.8 || ^9
