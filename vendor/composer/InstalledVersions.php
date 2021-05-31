@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '4a4f24cdfaa21a214fdb2d1b6bc48bd62031286e',
+    'reference' => 'cda0d56f095c8a14f082a925b32e1fb1f62d390a',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -54,6 +54,24 @@ private static $installed = array (
       array (
       ),
       'reference' => '5f814e980b6f9cf1ca8c74cc9385c3d81090d388',
+    ),
+    'commerceguys/addressing' => 
+    array (
+      'pretty_version' => 'v1.2.1',
+      'version' => '1.2.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '311040bd78ea2ea82105dd1f17205c449ac8de47',
+    ),
+    'commerceguys/intl' => 
+    array (
+      'pretty_version' => 'v1.1.0',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '90b4f75c4917927a1960c0dcaa002a91ab97f5d5',
     ),
     'composer/installers' => 
     array (
@@ -188,6 +206,15 @@ private static $installed = array (
       ),
       'reference' => 'ce77a7ba1770462cd705a91a151b6c3746f9c6ad',
     ),
+    'doctrine/collections' => 
+    array (
+      'pretty_version' => '1.6.7',
+      'version' => '1.6.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '55f8b799269a1a472457bd1a41b4f379d4cfba4a',
+    ),
     'doctrine/lexer' => 
     array (
       'pretty_version' => '1.2.1',
@@ -212,6 +239,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/address' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/admin_toolbar' => 
     array (
@@ -344,6 +380,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/commerce' => 
+    array (
+      'pretty_version' => '2.24.0',
+      'version' => '2.24.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.24',
     ),
     'drupal/config' => 
     array (
@@ -651,12 +696,30 @@ private static $installed = array (
         0 => '9.1.8',
       ),
     ),
+    'drupal/entity' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.2',
+    ),
     'drupal/entity_reference' => 
     array (
       'replaced' => 
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/entity_reference_revisions' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/field' => 
     array (
@@ -743,6 +806,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/inline_entity_form' => 
+    array (
+      'pretty_version' => '1.0.0-rc9',
+      'version' => '1.0.0.0-RC9',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0-rc9',
     ),
     'drupal/inline_form_errors' => 
     array (
@@ -898,6 +970,15 @@ private static $installed = array (
         0 => '9.1.8',
       ),
     ),
+    'drupal/profile' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.2',
+    ),
     'drupal/quickedit' => 
     array (
       'replaced' => 
@@ -919,7 +1000,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '4a4f24cdfaa21a214fdb2d1b6bc48bd62031286e',
+      'reference' => 'cda0d56f095c8a14f082a925b32e1fb1f62d390a',
     ),
     'drupal/responsive_image' => 
     array (
@@ -993,6 +1074,15 @@ private static $installed = array (
         0 => '9.1.8',
       ),
     ),
+    'drupal/state_machine' => 
+    array (
+      'pretty_version' => '1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0',
+    ),
     'drupal/statistics' => 
     array (
       'replaced' => 
@@ -1064,6 +1154,15 @@ private static $installed = array (
       array (
         0 => '9.1.8',
       ),
+    ),
+    'drupal/unique_content_field_validation' => 
+    array (
+      'pretty_version' => '1.0.2',
+      'version' => '1.0.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '1.0.2',
     ),
     'drupal/unique_field_ajax' => 
     array (
@@ -1397,8 +1496,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '^1.0',
+        0 => '^1.0',
+        1 => '1.0',
       ),
     ),
     'psr/event-dispatcher-implementation' => 
